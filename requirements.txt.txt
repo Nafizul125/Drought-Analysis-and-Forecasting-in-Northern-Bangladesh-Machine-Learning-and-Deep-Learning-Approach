@@ -1,0 +1,15 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scipy
+matplotlib
+seaborn
+statsmodels
+pmdarima
+PyWavelets
+scikit-learn>=1.4.0
+xgboost
+tensorflow>=2.15.0
+geopandas
+rasterio
+shapely>=2.0.0
+mapclassify
